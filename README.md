@@ -142,4 +142,3 @@ If this app helped you wake up on time, consider:
 <p align="center">
   Made with ❤️ for better mornings
 </p>
-#
