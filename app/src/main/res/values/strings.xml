@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bluetooth Timer</string>
-    <string name="app_tagline">Auto-off timer for Bluetooth</string>
+    <string name="app_name">SleepBT</string>
+    <string name="app_tagline">Auto-disconnect Bluetooth while sleeping</string>
     <string name="bluetooth_status">Bluetooth Status</string>
     <string name="bluetooth_on">ON</string>
     <string name="bluetooth_off">OFF</string>
